@@ -4,7 +4,10 @@
     <list default="true" id="816951c3-a6ef-4a5f-b736-a5926a915968" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/auth/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/auth/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608119507002</updated>
       <workItem from="1608119510466" duration="2392000" />
-      <workItem from="1608157727561" duration="3182000" />
+      <workItem from="1608157727561" duration="3536000" />
+      <workItem from="1608241188458" duration="3850000" />
     </task>
     <servers />
   </component>
